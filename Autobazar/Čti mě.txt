@@ -1,2 +1,0 @@
-Autobazar
-Jazyk: Javascript, HTML, CSS
